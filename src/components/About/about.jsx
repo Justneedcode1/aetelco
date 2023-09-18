@@ -14,7 +14,7 @@ import { useTranslation } from "react-i18next";
 
 import Lottie from "lottie-react";
 import { CultureCards } from "../cultureCards/cultureCards";
-
+// go 
 export const About = (props) => {
   const { t } = useTranslation();
   return (
