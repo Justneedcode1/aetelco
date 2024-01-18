@@ -77,7 +77,7 @@ export const Contact = props => {
           <div className="contact-info--contactdetails">
             <div className="contact-info--detail">
               <img className="contact-info--icon" src={phoneIcon} alt="" />
-              <a href="tel:+44 14 4639 8041">+44 14 4639 8041</a>
+              <a href="tel:+44 14 4639 8041">+441446398041</a>
             </div>
             <div className="contact-info--detail">
               <img className="contact-info--icon" src={mail} alt="" />
